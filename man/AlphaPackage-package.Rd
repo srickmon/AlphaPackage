@@ -21,7 +21,7 @@ The DESCRIPTION file:
 Maintainer: \packageMaintainer{AlphaPackage}
 }
 \references{
-~~ Write a function that returns a randomly chosen letter of the alphabet~~
+~~ Literature or other references for background information~~
 }
 ~~ Optionally other standard keywords, one per line, from file KEYWORDS in the R~~
 ~~ documentation directory ~~
