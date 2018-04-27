@@ -1,9 +1,9 @@
-Package: AlphaPackage
+Package: RandomLetterGenerator
 Type: Package
-Title: AlphaPackage.R
+Title: What the package does (short line)
 Version: 1.0
-Date: 2018-04-27
-Author: AlphaPackage
-Maintainer: Sharidan Rickmon <srickmon@luc.edu>
-Description: Write a function that returns a randomly chosen letter of the alphabet 
-License: n/a
+Date: 2018-04-26
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
