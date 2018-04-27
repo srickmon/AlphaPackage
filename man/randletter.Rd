@@ -2,10 +2,10 @@
 \alias{randletter}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-%%  ~~function to do ... ~~
+%%  ~~randletter funcgoing ~~
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of what the function does. ~~
+%%  ~~ A concise (1-5 lines) description of what the function does.  ~~
 }
 \usage{
 randletter(x = 1)
@@ -47,9 +47,10 @@ randletter(x = 1)
 ##--	or do  help(data=index)  for the standard data sets.
 
 ## The function is currently defined as
-function (x = 1) 
-{
-    sample(letters, 1)
+function(x=1){
+  sample(letters, 1)
+}
+randletter()
   }
 }
 % Add one or more standard keywords, see file 'KEYWORDS' in the
