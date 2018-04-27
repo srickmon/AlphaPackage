@@ -1,1 +1,1 @@
-export(randletter)
+exportPattern("^[[:alpha:]]+")
