@@ -1,22 +1,22 @@
-\name{Alpha-package}
-\alias{Alpha-package}
-\alias{Alpha}
+\name{AlphaPackage-package}
+\alias{AlphaPackage-package}
+\alias{AlphaPackage}
 \docType{package}
 \title{
 \packageTitle{AlphaPackage}
 }
 \description{
-\packageDescription{Alpha}
+\packageDescription{AlphaPackage}
 }
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{Write a function that returns a randomly chosen letter of the alphabet}
-\packageIndices{Alpha}
+\packageDESCRIPTION{AlphaPackage}
+\packageIndices{AlphaPackage}
 ~~Write a function that returns a randomly chosen letter of the alphabet~~
 }
-\author{ Sharidan Rickmon
-\packageAuthor{Sharidan Rickmon}
+\author{
+\packageAuthor{AlphaPackage}
 
 Maintainer: \packageMaintainer{Sharidan Rickmon}
 }
