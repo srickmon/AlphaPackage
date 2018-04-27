@@ -1,31 +1,29 @@
-\name{Alphaa-package}
-\alias{Alphaa-package}
-\alias{Alphaa}
+\name{Alpha-package}
+\alias{Alpha-package}
+\alias{Alpha}
 \docType{package}
 \title{
-\packageTitle{Alphaa}
+\packageTitle{AlphaPackage}
 }
 \description{
-\packageDescription{Alphaa}
+\packageDescription{Alpha}
 }
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{Alphaa}
-\packageIndices{Alphaa}
-~~Write a function that returns a randomly chosen letter of the
-alphabet ~~
+\packageDESCRIPTION{Write a function that returns a randomly chosen letter of the alphabet}
+\packageIndices{Alpha}
+~~Write a function that returns a randomly chosen letter of the alphabet~~
 }
-\author{ Sharidan
-\packageAuthor{Alphaa}
+\author{ Sharidan Rickmon
+\packageAuthor{Sharidan Rickmon}
 
-Maintainer: \packageMaintainer{Alphaa}
+Maintainer: \packageMaintainer{Sharidan Rickmon}
 }
 \references{
-~~ Write a function that returns a randomly chosen letter of the
-alphabet ~~
+~~ Write a function that returns a randomly chosen letter of the alphabet~~
 }
-~~ Optionally other standard keywords, one per line, from file KEYWORDS in the R ~~
+~~ Optionally other standard keywords, one per line, from file KEYWORDS in the R~~
 ~~ documentation directory ~~
 \keyword{ package }
 \seealso{
