@@ -13,12 +13,12 @@
 The DESCRIPTION file:
 \packageDESCRIPTION{AlphaPackage}
 \packageIndices{AlphaPackage}
-~~Write a function that returns a randomly chosen letter of the alphabet~~
+~~An overview of how to use the package, including the most important functions~~
 }
 \author{
 \packageAuthor{AlphaPackage}
 
-Maintainer: \packageMaintainer{Sharidan Rickmon}
+Maintainer: \packageMaintainer{AlphaPackage}
 }
 \references{
 ~~ Write a function that returns a randomly chosen letter of the alphabet~~
